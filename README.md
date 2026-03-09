@@ -1,4 +1,5 @@
 # Java Utility Billing System
+[![Java CI with Maven](https://github.com/N-Amasha/java-utility-billing-system/actions/workflows/maven.yml/badge.svg)](https://github.com/N-Amasha/java-utility-billing-system/actions/workflows/maven.yml)
 
 A console-based Java application designed to manage customer data and automate electricity bill calculations. This project demonstrates core Object-Oriented Programming (OOP) concepts.
 
